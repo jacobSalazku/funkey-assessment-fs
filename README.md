@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Funkey Assessment Project Setup 
 
-## Getting Started
+## 🛠 Tech Stack
 
-First, run the development server:
+- **Next.js** — React Framework  
+- **TypeScript** — TypeSafety  
+- **Tailwind CSS** — Utility-First CSS Framework  
+- **Prisma** — ORM for Database Access  
+- **PostgreSQL** — Database  
+- **Zod** — Type-safe Validation Library  
+- **React Hook Form** — Form Handling  
+- **pnpm** — Package Manager  
+
+---
+
+## 📦 Project Setup Instructions
+
+### 1. Install Dependencies
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 2. Configure Environment Variables
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Create a `.env` file in the project root and add your PostgreSQL connection details:
 
-## Learn More
+```ini
+DATABASE_URL="postgresql://postgres:mysecretpassword@localhost:5432/mydatabase"
+```
 
-To learn more about Next.js, take a look at the following resources:
+**Note:**  
+- Replace `postgres` with your PostgreSQL username if different  
+- Replace `mysecretpassword` with your actual password  
+- Replace `mydatabase` with your actual database name  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 3. Prisma Setup
 
-## Deploy on Vercel
+Generate Prisma client:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npx prisma generate
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Apply database migrations:
+
+```bash
+npx prisma migrate dev
+```
+
+Seed the database:
+
+```bash
+npx prisma db seed
+```
+
+---
+
+### 4. Start the Development Server
+
+```bash
+pnpm run dev
+```
+
+The application will be running at: [http://localhost:3000](http://localhost:3000)
+
+
+## 📂 Project Structure
+
+```
+/prisma         # Prisma schema & migrations  
+/app            # Next.js pages  
+/components     # Reusable UI components  
+/features       # Application features
+/utils          # Utility functions  
+```
+
+---
+
+
+
