@@ -7,7 +7,7 @@ export default async function Home() {
   const activities = await getAllActivities();
   const categories = await getAllCategories();
   return (
-    <main className="max-w-7xl mx-auto min-h-screen p-8 flex flex-col justify-center items-center gap-16 font-[family-name:var(--font-geist-sans)]">
+    <main className="max-w-7xl mx-auto min-h-screen p-8 flex flex-col justify-center items-center gap-16">
       <div className="flex flex-row w-full gap-20 justify-center items-center">
         <div className="w-2/3  h-full space-y-8">
           <h1 className="text-3xl font-bold">Activities</h1>
