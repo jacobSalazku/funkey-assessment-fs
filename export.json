@@ -1,0 +1,443 @@
+{
+  "activities": [
+    {
+      "id": "cmcdyiiv7000bx60vm25cru27",
+      "title": "Lego Tower Challenge",
+      "description": "Teams compete to build the tallest or most creative tower using Legos.",
+      "createdAt": "2025-06-26T22:30:29.576Z",
+      "updatedAt": "2025-06-26T22:30:29.576Z",
+      "category": [
+        {
+          "id": "cmcdycf260000x60vky775n2s",
+          "title": "Communication ",
+          "description": "Activities that strengthen team communication, active listening, and group problem-solving."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdyiu33000cx60vdqks78wr",
+      "title": "Speed Networking",
+      "description": "Quick one-on-one chats to help team members get to know each other better.",
+      "createdAt": "2025-06-26T22:30:44.175Z",
+      "updatedAt": "2025-06-26T22:30:44.175Z",
+      "category": [
+        {
+          "id": "cmcdycszk0001x60vnq5lgb81",
+          "title": "Trust Building",
+          "description": "Exercises that build trust, empathy, and deeper personal connections among team members."
+        },
+        {
+          "id": "cmcdydew60003x60vpcv96a31",
+          "title": "Fun",
+          "description": "Light, engaging activities that boost energy, morale, and create shared fun experiences."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdyj6jw000dx60vfjui0w1x",
+      "title": "Storytelling Relay",
+      "description": "Team builds a story sentence by sentence, each person adding to the plot.",
+      "createdAt": "2025-06-26T22:31:00.252Z",
+      "updatedAt": "2025-06-26T22:31:00.252Z",
+      "category": [
+        {
+          "id": "cmcdycf260000x60vky775n2s",
+          "title": "Communication ",
+          "description": "Activities that strengthen team communication, active listening, and group problem-solving."
+        },
+        {
+          "id": "cmcdyd43m0002x60v63ymna2g",
+          "title": "Creative Thinking ",
+          "description": "Activities designed to spark creativity, encourage out-of-the-box thinking, and problem-solving in a fun environment."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdygipj0004x60vkyons17e",
+      "title": "Two Truths and a Lie",
+      "description": "Each person shares two true facts and one lie; the group guesses the lie.",
+      "createdAt": "2025-06-26T22:28:56.057Z",
+      "updatedAt": "2025-06-26T22:28:56.057Z",
+      "category": [
+        {
+          "id": "cmcdycszk0001x60vnq5lgb81",
+          "title": "Trust Building",
+          "description": "Exercises that build trust, empathy, and deeper personal connections among team members."
+        },
+        {
+          "id": "cmcdydew60003x60vpcv96a31",
+          "title": "Fun",
+          "description": "Light, engaging activities that boost energy, morale, and create shared fun experiences."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdygs5t0005x60vqntk015i",
+      "title": "Escape Room Challenge\t",
+      "description": "Teams solve puzzles and clues to \"escape\" within a set time.\t",
+      "createdAt": "2025-06-26T22:29:08.369Z",
+      "updatedAt": "2025-06-26T22:29:08.369Z",
+      "category": [
+        {
+          "id": "cmcdycf260000x60vky775n2s",
+          "title": "Communication ",
+          "description": "Activities that strengthen team communication, active listening, and group problem-solving."
+        },
+        {
+          "id": "cmcdyd43m0002x60v63ymna2g",
+          "title": "Creative Thinking ",
+          "description": "Activities designed to spark creativity, encourage out-of-the-box thinking, and problem-solving in a fun environment."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdyh1ze0006x60vq81hyip0",
+      "title": "Human Knot\t",
+      "description": "Group stands in a circle, holds hands randomly, and works together to untangle themselves.",
+      "createdAt": "2025-06-26T22:29:21.038Z",
+      "updatedAt": "2025-06-26T22:29:21.038Z",
+      "category": [
+        {
+          "id": "cmcdycf260000x60vky775n2s",
+          "title": "Communication ",
+          "description": "Activities that strengthen team communication, active listening, and group problem-solving."
+        },
+        {
+          "id": "cmcdycszk0001x60vnq5lgb81",
+          "title": "Trust Building",
+          "description": "Exercises that build trust, empathy, and deeper personal connections among team members."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdyh9ew0007x60vz8aiqgq5",
+      "title": "Show & Tell: Hobby Edition\t",
+      "description": "Team members briefly present a hobby or passion to the group.",
+      "createdAt": "2025-06-26T22:29:30.728Z",
+      "updatedAt": "2025-06-26T22:29:30.728Z",
+      "category": [
+        {
+          "id": "cmcdycszk0001x60vnq5lgb81",
+          "title": "Trust Building",
+          "description": "Exercises that build trust, empathy, and deeper personal connections among team members."
+        },
+        {
+          "id": "cmcdydew60003x60vpcv96a31",
+          "title": "Fun",
+          "description": "Light, engaging activities that boost energy, morale, and create shared fun experiences."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdyhgul0008x60vpyakwlbv",
+      "title": "Idea Storm\t",
+      "description": "Rapid-fire brainstorming session on a fun or work-related challenge.",
+      "createdAt": "2025-06-26T22:29:40.301Z",
+      "updatedAt": "2025-06-26T22:29:40.301Z",
+      "category": [
+        {
+          "id": "cmcdycf260000x60vky775n2s",
+          "title": "Communication ",
+          "description": "Activities that strengthen team communication, active listening, and group problem-solving."
+        },
+        {
+          "id": "cmcdyd43m0002x60v63ymna2g",
+          "title": "Creative Thinking ",
+          "description": "Activities designed to spark creativity, encourage out-of-the-box thinking, and problem-solving in a fun environment."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdyhsaj0009x60v8ta0knfn",
+      "title": "Blindfold Obstacle Course\t",
+      "description": "One blindfolded team member navigates obstacles guided only by teammates' instructions.",
+      "createdAt": "2025-06-26T22:29:55.196Z",
+      "updatedAt": "2025-06-26T22:29:55.196Z",
+      "category": [
+        {
+          "id": "cmcdycf260000x60vky775n2s",
+          "title": "Communication ",
+          "description": "Activities that strengthen team communication, active listening, and group problem-solving."
+        },
+        {
+          "id": "cmcdycszk0001x60vnq5lgb81",
+          "title": "Trust Building",
+          "description": "Exercises that build trust, empathy, and deeper personal connections among team members."
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdyi6nt000ax60vlwq5bt5x",
+      "title": "Office Trivia\t",
+      "description": "Fun quiz game with trivia about the company or team members.",
+      "createdAt": "2025-06-26T22:30:13.758Z",
+      "updatedAt": "2025-06-26T22:30:13.758Z",
+      "category": [
+        {
+          "id": "cmcdycszk0001x60vnq5lgb81",
+          "title": "Trust Building",
+          "description": "Exercises that build trust, empathy, and deeper personal connections among team members."
+        }
+      ],
+      "media": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "cmcdydew60003x60vpcv96a31",
+      "title": "Fun",
+      "description": "Light, engaging activities that boost energy, morale, and create shared fun experiences.",
+      "activities": [
+        {
+          "id": "cmcdyiu33000cx60vdqks78wr",
+          "title": "Speed Networking",
+          "description": "Quick one-on-one chats to help team members get to know each other better.",
+          "createdAt": "2025-06-26T22:30:44.175Z",
+          "updatedAt": "2025-06-26T22:30:44.175Z"
+        },
+        {
+          "id": "cmcdygipj0004x60vkyons17e",
+          "title": "Two Truths and a Lie",
+          "description": "Each person shares two true facts and one lie; the group guesses the lie.",
+          "createdAt": "2025-06-26T22:28:56.057Z",
+          "updatedAt": "2025-06-26T22:28:56.057Z"
+        },
+        {
+          "id": "cmcdyh9ew0007x60vz8aiqgq5",
+          "title": "Show & Tell: Hobby Edition\t",
+          "description": "Team members briefly present a hobby or passion to the group.",
+          "createdAt": "2025-06-26T22:29:30.728Z",
+          "updatedAt": "2025-06-26T22:29:30.728Z"
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "cmcdycszk0001x60vnq5lgb81",
+      "title": "Trust Building",
+      "description": "Exercises that build trust, empathy, and deeper personal connections among team members.",
+      "activities": [
+        {
+          "id": "cmcdyiu33000cx60vdqks78wr",
+          "title": "Speed Networking",
+          "description": "Quick one-on-one chats to help team members get to know each other better.",
+          "createdAt": "2025-06-26T22:30:44.175Z",
+          "updatedAt": "2025-06-26T22:30:44.175Z"
+        },
+        {
+          "id": "cmcdygipj0004x60vkyons17e",
+          "title": "Two Truths and a Lie",
+          "description": "Each person shares two true facts and one lie; the group guesses the lie.",
+          "createdAt": "2025-06-26T22:28:56.057Z",
+          "updatedAt": "2025-06-26T22:28:56.057Z"
+        },
+        {
+          "id": "cmcdyh1ze0006x60vq81hyip0",
+          "title": "Human Knot\t",
+          "description": "Group stands in a circle, holds hands randomly, and works together to untangle themselves.",
+          "createdAt": "2025-06-26T22:29:21.038Z",
+          "updatedAt": "2025-06-26T22:29:21.038Z"
+        },
+        {
+          "id": "cmcdyh9ew0007x60vz8aiqgq5",
+          "title": "Show & Tell: Hobby Edition\t",
+          "description": "Team members briefly present a hobby or passion to the group.",
+          "createdAt": "2025-06-26T22:29:30.728Z",
+          "updatedAt": "2025-06-26T22:29:30.728Z"
+        },
+        {
+          "id": "cmcdyhsaj0009x60v8ta0knfn",
+          "title": "Blindfold Obstacle Course\t",
+          "description": "One blindfolded team member navigates obstacles guided only by teammates' instructions.",
+          "createdAt": "2025-06-26T22:29:55.196Z",
+          "updatedAt": "2025-06-26T22:29:55.196Z"
+        },
+        {
+          "id": "cmcdyi6nt000ax60vlwq5bt5x",
+          "title": "Office Trivia\t",
+          "description": "Fun quiz game with trivia about the company or team members.",
+          "createdAt": "2025-06-26T22:30:13.758Z",
+          "updatedAt": "2025-06-26T22:30:13.758Z"
+        }
+      ],
+      "media": [
+        {
+          "id": "cmcdz13cz000ex60vrpamhwgu",
+          "title": "Trustbuilding",
+          "url": "https://dribbble.com/shots/5645745-Teambuilding-isometric-illustration",
+          "activityId": null,
+          "categoryId": "cmcdycszk0001x60vnq5lgb81"
+        }
+      ]
+    },
+    {
+      "id": "cmcdyd43m0002x60v63ymna2g",
+      "title": "Creative Thinking ",
+      "description": "Activities designed to spark creativity, encourage out-of-the-box thinking, and problem-solving in a fun environment.",
+      "activities": [
+        {
+          "id": "cmcdyj6jw000dx60vfjui0w1x",
+          "title": "Storytelling Relay",
+          "description": "Team builds a story sentence by sentence, each person adding to the plot.",
+          "createdAt": "2025-06-26T22:31:00.252Z",
+          "updatedAt": "2025-06-26T22:31:00.252Z"
+        },
+        {
+          "id": "cmcdygs5t0005x60vqntk015i",
+          "title": "Escape Room Challenge\t",
+          "description": "Teams solve puzzles and clues to \"escape\" within a set time.\t",
+          "createdAt": "2025-06-26T22:29:08.369Z",
+          "updatedAt": "2025-06-26T22:29:08.369Z"
+        },
+        {
+          "id": "cmcdyhgul0008x60vpyakwlbv",
+          "title": "Idea Storm\t",
+          "description": "Rapid-fire brainstorming session on a fun or work-related challenge.",
+          "createdAt": "2025-06-26T22:29:40.301Z",
+          "updatedAt": "2025-06-26T22:29:40.301Z"
+        }
+      ],
+      "media": [
+        {
+          "id": "cmcdz1zwo000fx60volpinlpf",
+          "title": "Creative Thoughts",
+          "url": "https://dribbble.com/shots/21033536-Free-Creative-Thinking-Infographics-Presentation-Templates",
+          "activityId": null,
+          "categoryId": "cmcdyd43m0002x60v63ymna2g"
+        }
+      ]
+    },
+    {
+      "id": "cmcdycf260000x60vky775n2s",
+      "title": "Communication ",
+      "description": "Activities that strengthen team communication, active listening, and group problem-solving.",
+      "activities": [
+        {
+          "id": "cmcdyiiv7000bx60vm25cru27",
+          "title": "Lego Tower Challenge",
+          "description": "Teams compete to build the tallest or most creative tower using Legos.",
+          "createdAt": "2025-06-26T22:30:29.576Z",
+          "updatedAt": "2025-06-26T22:30:29.576Z"
+        },
+        {
+          "id": "cmcdyj6jw000dx60vfjui0w1x",
+          "title": "Storytelling Relay",
+          "description": "Team builds a story sentence by sentence, each person adding to the plot.",
+          "createdAt": "2025-06-26T22:31:00.252Z",
+          "updatedAt": "2025-06-26T22:31:00.252Z"
+        },
+        {
+          "id": "cmcdygs5t0005x60vqntk015i",
+          "title": "Escape Room Challenge\t",
+          "description": "Teams solve puzzles and clues to \"escape\" within a set time.\t",
+          "createdAt": "2025-06-26T22:29:08.369Z",
+          "updatedAt": "2025-06-26T22:29:08.369Z"
+        },
+        {
+          "id": "cmcdyh1ze0006x60vq81hyip0",
+          "title": "Human Knot\t",
+          "description": "Group stands in a circle, holds hands randomly, and works together to untangle themselves.",
+          "createdAt": "2025-06-26T22:29:21.038Z",
+          "updatedAt": "2025-06-26T22:29:21.038Z"
+        },
+        {
+          "id": "cmcdyhgul0008x60vpyakwlbv",
+          "title": "Idea Storm\t",
+          "description": "Rapid-fire brainstorming session on a fun or work-related challenge.",
+          "createdAt": "2025-06-26T22:29:40.301Z",
+          "updatedAt": "2025-06-26T22:29:40.301Z"
+        },
+        {
+          "id": "cmcdyhsaj0009x60v8ta0knfn",
+          "title": "Blindfold Obstacle Course\t",
+          "description": "One blindfolded team member navigates obstacles guided only by teammates' instructions.",
+          "createdAt": "2025-06-26T22:29:55.196Z",
+          "updatedAt": "2025-06-26T22:29:55.196Z"
+        }
+      ],
+      "media": [
+        {
+          "id": "cmcdz2yqo000gx60vrkpit6op",
+          "title": "Communicate",
+          "url": "https://dribbble.com/shots/4417209-Communication",
+          "activityId": null,
+          "categoryId": "cmcdycf260000x60vky775n2s"
+        }
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "cmcaumrtl0005190wku10e8p7",
+      "title": "Football Promo",
+      "url": "https://example.com/football.jpg",
+      "activityId": null,
+      "categoryId": null
+    },
+    {
+      "id": "cmcaumrwx0007190w2zpuylda",
+      "title": "Jazz Poster",
+      "url": "https://example.com/jazz.jpg",
+      "activityId": null,
+      "categoryId": null
+    },
+    {
+      "id": "cmcaumrq50003190wf71q86m6",
+      "title": "Music Banner",
+      "url": "https://example.com/music.jpg",
+      "activityId": null,
+      "categoryId": null
+    },
+    {
+      "id": "cmcdw6uw70000210vkh0ds6po",
+      "title": "Sports",
+      "url": "https://www.freepik.com/free-photo/sports-tools_18415697.htm#fromView=keyword&page=1&position=0&uuid=f140ea5c-463a-4316-a18b-005db4f395fb&query=Sport",
+      "activityId": null,
+      "categoryId": null
+    },
+    {
+      "id": "cmcdr71i00000zu0wu09pryfo",
+      "title": "Sports Banner",
+      "url": "https://example.com/sports.jpg",
+      "activityId": null,
+      "categoryId": null
+    },
+    {
+      "id": "cmcdr71i00001zu0wex4qx042",
+      "title": "Ice Skating",
+      "url": "https://nl.freepik.com/vrije-photo/verticale-close-up-van-een-persoon-in-witte-schaatsen-op-het-ijs-tijdens-de-sneeuwval_13499723.htm#fromView=keyword&page=1&position=0&uuid=76dc5b27-e605-4036-b56d-bc3312e166b1&query=Schaatsen",
+      "activityId": null,
+      "categoryId": null
+    },
+    {
+      "id": "cmcdz13cz000ex60vrpamhwgu",
+      "title": "Trustbuilding",
+      "url": "https://dribbble.com/shots/5645745-Teambuilding-isometric-illustration",
+      "activityId": null,
+      "categoryId": "cmcdycszk0001x60vnq5lgb81"
+    },
+    {
+      "id": "cmcdz1zwo000fx60volpinlpf",
+      "title": "Creative Thoughts",
+      "url": "https://dribbble.com/shots/21033536-Free-Creative-Thinking-Infographics-Presentation-Templates",
+      "activityId": null,
+      "categoryId": "cmcdyd43m0002x60v63ymna2g"
+    },
+    {
+      "id": "cmcdz2yqo000gx60vrkpit6op",
+      "title": "Communicate",
+      "url": "https://dribbble.com/shots/4417209-Communication",
+      "activityId": null,
+      "categoryId": "cmcdycf260000x60vky775n2s"
+    }
+  ]
+}

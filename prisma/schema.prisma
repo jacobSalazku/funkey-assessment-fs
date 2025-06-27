@@ -1,0 +1,52 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Activity {
+  id            String   @id @default(cuid()) 
+  title         String
+  description   String
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  //relation
+  category     Category[]  @relation("ActivityCategories")
+  media        Media[]
+}
+
+model Category {
+  id                   String     @id @default(cuid())
+  title                String
+  description          String
+
+  //relation
+  activities           Activity[] @relation("ActivityCategories")
+  media                Media[]
+}
+
+
+
+model Media {
+  id         String   @id @default(cuid())
+  title      String
+  url        String
+  activityId String?
+  categoryId String?
+
+
+  // relation
+  activity   Activity? @relation(fields: [activityId], references: [id])
+  category   Category? @relation(fields: [categoryId], references: [id])
+}
